@@ -7,5 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimary">#94DBF1</color>
+    <color name="tambah">#9CE49F</color>
+    <color name="black_riwayat">#000000</color>
+    <color name="abuabu">#C8C8C8</color>
 </resources>
