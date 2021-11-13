@@ -1,6 +1,6 @@
 # InfoAboutU
 Responsi MWS-P
-Anggota Kelompok : 
+Anggota Kelompok 3 : 
 - 5200411423 Ivan Despriaryandi
 - 5190411366 Ari Cahya Nugraha 
 - 5200411130 Juanito Da Silva Evaristo 
