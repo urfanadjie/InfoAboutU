@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InfoAboutU">
         <activity
+            android:name=".ReadNewsActivity"
+            android:exported="false" />
+        <activity
             android:name=".DashboardActivity"
             android:exported="false" />
         <activity

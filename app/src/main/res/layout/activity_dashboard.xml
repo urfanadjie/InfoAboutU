@@ -81,7 +81,23 @@
         android:paddingEnd="70dp"
         android:background="@drawable/view_pager_berita"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        tools:layout_editor_absoluteX="-16dp" />
+        tools:layout_editor_absoluteX="-16dp" >
+    </androidx.viewpager2.widget.ViewPager2>
+
+    <Button
+        android:id="@+id/btn_lihat"
+        android:layout_width="112dp"
+        android:layout_height="43dp"
+        android:background="@drawable/input_bg"
+        android:text="Lihat"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/goPcr"
+        app:layout_constraintEnd_toEndOf="@+id/goPcr"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="@+id/goPcr"
+        app:layout_constraintTop_toTopOf="@+id/goPcr"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <TextView
         android:id="@+id/textView3"
@@ -113,6 +129,7 @@
         android:textSize="18dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
